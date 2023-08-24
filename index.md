@@ -4,7 +4,7 @@ title: Student Blog
 ---
 
 
-# Aiden Kim's home page
+## Aiden Kim's home page
 This is about your journey. Start now!!!
 
 ## Overview of Hacks, Study and Tangibles
