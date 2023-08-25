@@ -12,4 +12,4 @@ My name is Aiden and I am 16 years old. I was born in Canada, but moved to San D
 
 ## My Freeform Image
 I chose to draw a picture of Walter White from Breaking Bad because it is my favorite show.
-<img src = "images/IMG_0408.PNG" Width="700" height = "500">
+<img src = "images/IMG_0408.PNG" Width="400" height = "700">
