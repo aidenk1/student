@@ -9,3 +9,7 @@ Welcome to my page.
 
 ## About Me
 My name is Aiden and I am 16 years old. I was born in Canada, but moved to San Diego when I was very young. I enjoy playing the guitar and video games. My favorite subjects are Chemistry and Math.
+ 
+ ## My Freeform Image
+ I chose to draw a picture of Walter White from Breaking Bad because it is my favorite show.
+<img src = "images/IMG_0408.PNG" Width="700" height = "500">
