@@ -13,3 +13,9 @@ My name is Aiden and I am 16 years old. I was born in Canada, but moved to San D
 ## My Freeform Image
 I chose to draw a picture of Walter White from Breaking Bad because it is my favorite show. He is holding the Korean Flag because I am Korean and he is also holding a controller because I like playing video games.
 <img src = "images/freeform.jpg" Width="400" height = "700">
+
+## My Class Schedule
+Period 1: AP CSP
+Period 2: AP English Language
+Period 3: AP Calculus AB
+Period 4: AP Biology
